@@ -1,0 +1,14 @@
+[
+  {
+    "package": "pbo",
+    "oncran": true
+  },
+  {
+    "package": "stressr",
+    "oncran": true
+  },
+  {
+    "package": "ustyc",
+    "oncran": true
+  }
+]
